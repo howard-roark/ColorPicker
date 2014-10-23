@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="hello">Hello 390 H\nBy: Matthew McGuire</string>
+    <string name="radioButton">Test Button</string>
+    <string name="nameDialog">Name</string>
+    <string name="pwDialog">Password</string>
+    <string name="redHead">R</string>
+    <string name="greenHead">G</string>
+    <string name="blueHead">B</string>
+    <string name="okButton">Finalize Color Choice</string>
+</resources>
